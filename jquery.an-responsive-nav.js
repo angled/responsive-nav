@@ -15,10 +15,11 @@
             }, options);
 
 		var test;
+		var test123;
         var $this = jQuery(this);
         var $thisUl = jQuery(this).children('ul');
         var $thisFirstLevelLi = $thisUl.children('li').addClass('first-level');
-  	var $allSubNavToggles;
+  		var $allSubNavToggles;
 		var $allSubNavs;
         var subNavWidth = 0;
         var classesSet = false;
