@@ -16,6 +16,7 @@
 
 		var test;
 		var test123;
+		var test1234;
         var $this = jQuery(this);
         var $thisUl = jQuery(this).children('ul');
         var $thisFirstLevelLi = $thisUl.children('li').addClass('first-level');
